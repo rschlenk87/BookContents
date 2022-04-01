@@ -5,7 +5,7 @@
 Make sure to personalize your welcome message with something unique!
 
 # BookContents
-Public repo of the Learning C# with Unity 3D book contents
+Private repo of the Learning C# with Unity 3D book contents
 
 ## What's included?
 The contents of this Git Repo are usable for anyone who may or may not have a copy of the _Learning C# with Unity 3D_ book. Of I'd appreciate it if you bought a copy I'll have a link to the Second Edition on Amazon or B&N soon, I understand that it's not something that everyone can afford.
